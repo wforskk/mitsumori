@@ -1,0 +1,37 @@
+html,
+body {
+    margin: 0;
+}
+#demo-simple-select {
+    width: 200px;
+}
+.header {
+    background-color: aquamarine;
+    height: 70px;
+}
+.footer {
+    background-color: rgb(61, 60, 60);
+    height: 700px;
+}
+
+.divDivRadio,
+.divRadio,
+.radio {
+    display: inline-block;
+}
+.title {
+    text-align: left;
+    font-weight: 700;
+    font-size: 20px;
+}
+.container {
+    margin: 10px;
+    text-align: center;
+    width: inherit;
+}
+.line {
+    padding: 10px;
+    text-align: left;
+    width: 400px;
+    border: 1px solid aquamarine;
+}
