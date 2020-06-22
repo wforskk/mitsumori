@@ -1,0 +1,1 @@
+{"ast":null,"code":"/** Dummy user data. */\nexport const genderList = [{\n  name: '女性',\n  value: 'a'\n}, {\n  name: '男性',\n  value: 'b'\n}, {\n  name: 'どちらでもいい',\n  value: 'c'\n}];","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"/** Dummy user data. */\nexport const workReqList = [{\n  name: '漫画動画制作依頼',\n  value: ''\n}, {\n  name: '漫画イラスト作成依頼',\n  value: ''\n}, {\n  name: '声優依頼',\n  value: ''\n}, {\n  name: '動画編集依頼',\n  value: ''\n}];","map":null,"metadata":{},"sourceType":"module"}

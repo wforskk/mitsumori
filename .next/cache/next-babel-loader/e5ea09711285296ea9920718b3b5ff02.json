@@ -1,0 +1,1 @@
+{"ast":null,"code":"/** Dummy user data. */\nexport const manuscriptFlagList = [{\n  name: 'あり',\n  value: ''\n}, {\n  name: 'なし',\n  value: ''\n}];","map":null,"metadata":{},"sourceType":"module"}

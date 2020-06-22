@@ -1,0 +1,1 @@
+{"ast":null,"code":"/** Dummy user data. */\nexport const wordCountList = [{\n  name: '2000字以下',\n  value: ''\n}, {\n  name: '2000-3000字',\n  value: ''\n}, {\n  name: '3000-4000字',\n  value: ''\n}, {\n  name: '4000字以上',\n  value: ''\n}];","map":null,"metadata":{},"sourceType":"module"}
