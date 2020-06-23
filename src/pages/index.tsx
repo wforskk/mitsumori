@@ -7,6 +7,7 @@ import { genderList } from '../utils/gender'
 import { workReqList } from '../utils/workReq'
 import { manuscriptFlagList } from '../utils/manuscriptFlag'
 import { wordCountList } from "src/utils/wordCount";
+import Head from 'next/head'
 
 type Props = {
   genderData: RadioButtan[];
@@ -16,6 +17,12 @@ type Props = {
 }
 const IndexPage = ({ genderData, workReqData, manuscriptFlagData, wordCountData }: Props) => (
   <div>
+  <Head>
+    <meta charSet="utf-8"/>
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>nokid</title>
+  </Head>
     <header className='header'>
     </header>
     <div className='container'>

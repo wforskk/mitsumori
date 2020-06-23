@@ -7,7 +7,7 @@
     "dev": "next",
     "build": "next build",
     "export": "next export",
-    "start": "next start",
+    "start": "next start -p $PROT",
     "lint": "eslint .",
     "fix": "eslint --fix .",
     "test": "jest",
